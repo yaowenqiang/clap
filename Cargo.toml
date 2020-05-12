@@ -1,8 +1,13 @@
 [package]
-name = "mdrend"
+name = "mdrend-jacky-demo-app"
 version = "0.1.0"
 authors = ["yaowenqiang <yaowenqiang111@163.com>"]
 edition = "2018"
+license = "MIT"
+keyword = ["Parse", "markdown", "commonMark"]
+#repository = ""
+description = "Read a markdown file and return a parsed html file"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
